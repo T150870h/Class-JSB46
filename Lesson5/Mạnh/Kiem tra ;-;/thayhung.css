@@ -1,0 +1,36 @@
+button {
+    width: 10%; 
+    height: 40px; 
+    border-radius: 30px;
+    position: absolute;
+    top: 0; 
+    left: 70%;
+    background-color: rgb(255, 119, 0);
+}
+.nav {
+    color: rgb(0, 0, 0) ;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}   
+
+div {
+    width: 50%; 
+    height: 100px; 
+    position: absolute;
+    top: 0; 
+    left: 35%;
+}
+.nav-item {
+    color: white;
+    padding: 12px 16px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+}

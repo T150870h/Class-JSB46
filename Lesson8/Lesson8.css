@@ -1,0 +1,34 @@
+.form {
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid rgb(136, 29, 29);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.label_name {
+    /* margin-bottom: 5px; */
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.input_name {
+    border: 1.5px solid rgb(135, 19, 19);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.label_email {
+    /* margin-bottom: 5px; */
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.input_email {
+    border: 1.5px solid rgb(135, 19, 19);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.Bt_Submit {
+    background-color: aquamarine;
+    border-radius:10px;
+    margin-bottom: 20px;
+}

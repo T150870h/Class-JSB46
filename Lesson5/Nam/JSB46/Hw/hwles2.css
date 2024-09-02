@@ -1,0 +1,16 @@
+body{
+    background-color:pink;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh; /* or any other height value */
+    text-align:center;
+    background-color:cadetblue;
+    width:750px;
+    height:300px
+  }
+  
+  .inline-block {
+    display: inline-block;
+  }

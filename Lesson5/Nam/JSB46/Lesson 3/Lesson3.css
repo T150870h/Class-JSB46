@@ -1,0 +1,39 @@
+/* by element */
+h1{
+    font-size:(100/3)px;
+    background-color: rgb(182, 54, 75);
+}
+/* by class */
+.h2_name{
+    font-size:(100/1.5)px;
+    background-color: grey;
+    text-align:right
+}
+.h2_age{
+    font-size:(100/1.5)px;
+    background-color:green;
+    font-family: Verdana;
+    text-align:center;
+}
+/* by id */
+#h3_name{
+    font-size: 30px;
+    background-color: rgb(21,255,0);
+}
+
+.container{
+    width:500px;
+    display:flex;
+    background-color:black;
+    padding: 10px;
+    justify-content:space-between;
+}
+.container2{
+    width: 300px;
+    height: 200px;
+    display:flex;
+    background-color:bisque;
+    align-items: space-between;
+    padding:10px;
+    
+}

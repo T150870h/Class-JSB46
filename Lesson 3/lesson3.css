@@ -1,0 +1,43 @@
+/* by element */
+h1 {
+   font-size: 20px;
+   background-color: rgba(12, 67, 162, 0.689);
+}
+/* by class */
+.h2_name {
+   font-size: 20px; 
+   background-color: aqua;
+}
+.h2_age {
+   font-size: 25px; 
+   background-color: rgb(255, 247, 0);
+}
+/* By Id */
+#h3_name {
+    font-size: 30px; 
+    background-color: rgb(21, 255, 0);
+}
+
+.h2_name {
+   text-align: center;
+   font-size: 25px; 
+   background-color: rgb(71, 20, 200);
+ }
+
+.container {
+   width: 200px;
+   display: flex;
+   justify-content: space-between;
+   background-color: bisque;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+
+.container2 {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: space-between;
+    background-color: bisque;
+    padding: 10px;
+}   
